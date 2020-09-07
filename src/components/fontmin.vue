@@ -103,7 +103,8 @@ export default {
 <style lang="scss">
 $btnh: 40px;
 .font-compress {
-  padding: 0 100px;
+  width: 75%;
+  // padding: 0 100px;
   .font-face-wrap {
     width: 100vw;
     height: 100vh;
